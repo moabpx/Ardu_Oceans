@@ -1,3 +1,6 @@
+// inicial test
+
+
 int pinoSensor = 0;
 int valorLido = 0;
 float temperatura = 0;
